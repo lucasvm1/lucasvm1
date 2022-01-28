@@ -24,4 +24,4 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/LucasVM1)
 [![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:lucas.vianam@outlook.com)
 
-
+![Snake animation](https://github.com/lucasvm1/lucasvm1/blob/output/github-contribution-grid-snake.svg)
