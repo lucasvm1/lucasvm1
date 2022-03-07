@@ -4,7 +4,7 @@
 
 
 - 📘 Fullstack Student at Blue EdTech
-- ✏️ Currently learning JavaScript
+- ✏️ Currently learning HTML5 & CSS
 
 <div align="center">
 <a href="https://github.com/lucasvm1">
