@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Lucas!
 
-> *"Clean code, constant learning, and strong coffee."*
+> *"Clean code, constant learning, and ~~strong coffee~~ water."*
 
 ---
 
