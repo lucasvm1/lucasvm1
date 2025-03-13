@@ -11,7 +11,7 @@ Currently, I'm diving deep into **Java**, **Spring Boot**, and REST API consumpt
 
 - 🔥 **Backend:** Java, Spring Boot, Spring Data JPA, JDBC
 - 🛢️ **Databases:** PostgreSQL, MySQL
-- ⚡ **Tools:** Git, Maven, Gradle, Docker
+- ⚡ **Tools:** Git, Maven
 - ☕ **Currently studying:** REST API consumption with WebClient (Spring WebFlux)
 
 ---
@@ -20,8 +20,8 @@ Currently, I'm diving deep into **Java**, **Spring Boot**, and REST API consumpt
 
 | Project | Description |
 |---------|-------------|
-| **[LoL Project (OP.GG-like)]** | Java-based system fetching persistent data from League of Legends API using REST APIs and JDBC. |
-| **[SSCar - A Car Maintenance Management System]** | Application built with Java and Spring Boot to manage and control car maintenance, service scheduling, and related tasks. |
+| **LoL Project (OP.GG-like)** | Java-based system fetching persistent data from League of Legends API using REST APIs and JDBC. |
+| **SSCar - A Car Maintenance Management System** | Application built with Java and Spring Boot to manage and control car maintenance, service scheduling, and related tasks. |
 
 ---
 
