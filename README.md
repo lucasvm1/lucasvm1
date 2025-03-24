@@ -25,7 +25,6 @@ Currently, I'm diving deep into **Java**, **Spring Boot**, and REST API consumpt
 
 ### 📫 Let's connect!
 
-- GitHub: [github.com/lucasvm1](https://github.com/lucasvm1)
 - LinkedIn: [linkedin.com/in/lucasvmaia](https://linkedin.com/in/lucasvmaia)
 - Email: lucas.vianam@outlook.com
 
