@@ -27,7 +27,7 @@ Currently, I'm diving deep into **Java**, **Spring Boot**, and REST API consumpt
 
 - LinkedIn: [linkedin.com/in/lucasvmaia](https://linkedin.com/in/lucasvmaia)
 - Email: contact@lucasvmaia.dev
-- Site: lucasvmaia.dev
+- Site: [lucasvmaia.dev](https://lucasvmaia.dev)
 
 ---
 
